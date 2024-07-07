@@ -1,5 +1,8 @@
+cd 
 
-git clone https://github.com/SAZZAD-404/AFO/blob/main/AFO.py
+rm -rf AFO
+
+git clone https://github.com/SAZZAD-404/AFO
 
 cd AFO
 
