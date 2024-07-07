@@ -1,7 +1,12 @@
 #AFO
 
-git clone https://github.com/SAZZAD-404/AFO/blob/main/AFO.py
+cd
+
+rm -rf AFO
+
+git clone https://github.com/Sazzad-on-fire/AFO.git
 
 cd AFO
 
 python AFO.py
+
